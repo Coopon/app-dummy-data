@@ -1,0 +1,32 @@
+[
+  { 
+    "name": "Theatre",
+    "id": 1, 
+    "bg": { "color": "8e44ad", "gradient": { "top": "ef4db6", "bottom": "c643fc" } } 
+  },
+  { 
+    "name": "Food", 
+    "id": 2, 
+    "bg": { "color": "c0392b", "gradient": { "top": "ffdb4c", "bottom": "ffcd02" } } 
+  },
+  { 
+    "name": "Music", 
+    "id": 3, 
+    "bg": { "color": "f1c40f", "gradient": { "top": "87fc70", "bottom": "0bd318" } } 
+  },
+  { 
+    "name": "Movies", 
+    "id": 4, 
+    "bg": { "color": "2c3e50" } 
+  },
+  { 
+    "name": "Fashion", 
+    "id": 5, 
+    "bg": { "color": "3498db" } 
+  },
+  { 
+    "name": "Gadgets", 
+    "id": 6, 
+    "bg": { "color": "bdc3c7", "gradient": { "top": "dbddde", "bottom": "898c90" } } 
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "challenge": "BurgerGods",
+  "title": "Gratis patat bij elke burger",
+  "provider": {
+    "id": 1,
+    "name": "Burgertrut",
+    "description": "Burger Restaurant",
+    "avatar": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p50x50/1551723_558755694200512_465789071_n.jpg?oh=0a620acbc5c9c38851d76b9478e656a5&oe=55A467CA&__gda__=1436792768_d0b8928dcc00bce85d46e7330dc9ed53"
+  },
+  "description": "Geniet van een korting van 30% bij het bestellen van tenminste 3 burgers bij uw favoriete burgerbar.",
+  "images": [
+    "https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10547455_644492068960207_7446869278551293046_n.jpg?oh=1e1ad16735b6ae87868df9d8692d026e&oe=55A0E656",
+    "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10457154_631302393612508_9220145674092034923_n.jpg?oh=afaabae86c06a0c9f41e3deb230c5732&oe=55A11A0B&__gda__=1441070177_f716cfc5c10df6f488a3174f748f842e"
+  ]
+}
